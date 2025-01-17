@@ -7,3 +7,23 @@
     padding: 16px;
 }
 
+.Header{
+    text-align: center;
+}
+
+.Logo{
+    width: 64px;
+    height: 64px;
+}
+
+.Title{
+    margin: 0;
+}
+
+.ChatContainer{
+    flex-grow: 1;
+    width: 100%;
+    background: #ffffff;
+    border-radius: 16px;
+    overflow-y: auto;
+}
